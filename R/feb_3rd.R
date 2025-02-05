@@ -1,0 +1,5 @@
+print("Hello world!")
+print(500*(100/2.5)+770)
+username <- readline("What is your name?")
+bond_prices <- c(98,99,100,101,102)
+interest_rate <- readline("What is the interest rate now?")
